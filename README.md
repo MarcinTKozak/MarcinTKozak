@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- I am an aspiring Software Tester from Edinburgh
+- I am an aspiring Software Developer from Edinburgh
 - I enjoy solving problems and always open to learn new tools and technologies
 - I am looking for new opportunities
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/MarcinTKozak/)
@@ -17,7 +17,7 @@
 <div></div>
 <div align='center'>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
