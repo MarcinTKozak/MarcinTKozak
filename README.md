@@ -45,17 +45,13 @@
 
 ### I am learning a lot from:
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 https://java-programming.mooc.fi/
 
-https://www.guru99.com
 
-https://codegym.cc/
 
-https://www.utest.com/
 
 <!---
 MarcinTKozak/MarcinTKozak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
