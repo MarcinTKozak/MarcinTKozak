@@ -5,9 +5,9 @@
 
 ### 👩‍💻 About Me
 
-- I am an aspiring Linux System Administrator from Edinburgh
-- I enjoy solving problems and always open to learn new tools and technologies
-- I am looking for new opportunities
+- Open to new opportunities in the tech industry where I can learn, grow, and make a meaningful impact.
+- I have a strong interest in Linux system administration and software development (especially in Java), and I'm currently open to a variety of opportunities where I can grow, solve real-   world problems, and contribute to a team.
+- I enjoy diving into challenges, automating tasks, and expanding my knowledge of tools and technologies that make systems more efficient and reliable.
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-t-kozak/)
 
 ---
